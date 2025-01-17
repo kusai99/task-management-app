@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Full-stack Task Management application. The backend was built with ExpressJS, Sequelize, MySQL, and Redis, and containerized using Docker for efficient deployment and management, while the frontend was built with React.js, Material-UI, and axios was used for the API calls. This application supports secure user registration, login with authentication, and all the Task-related API calls are secured with JWT authentication. Redis caching was utilized for JWT token storing and retrieval (and invalidation); Redis cache was also used to access frequently accessed tasks.
+A Full-stack Task Management application. The backend was built with ExpressJS, Sequelize, PostgresSql, and Redis, and containerized using Docker for efficient deployment and management, while the frontend was built with React.js, Material-UI, and axios was used for the API calls. This application supports secure user registration, login with authentication, and all the Task-related API calls are secured with JWT authentication. Redis caching was utilized for JWT token storing and retrieval (and invalidation); Redis cache was also used to access frequently accessed tasks.
 
 ## Features
 
