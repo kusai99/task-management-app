@@ -1,4 +1,4 @@
-# Task Taking App
+# Task Management App
 
 ## Overview
 
